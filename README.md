@@ -5,9 +5,9 @@ How to use
 - Open ingress intel map.
 - Press F12 to open the developer tools.
 - Click the console tab on the top.
-- Replace the ```redcode__wst``` in ```main.js``` with ```passcode-xx.js```
-- Copy all the content in ```main.js``` and paste into the console tab
-- Press Enter to start automatically
+- Replace the ```redcode__wst``` in ```main.js``` with ```passcode-xx.js```.
+- Copy all the content in ```main.js``` and paste into the console tab.
+- Press Enter to start automatically.
 
 # ingress passcode
 批量自动兑换 passcode
